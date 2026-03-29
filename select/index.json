@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Midnight Moon",
+  "base_artist": "Oh Wonder",
+  "createdAt": "2026-03-29T15:10:42.166999Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Midnight Moon",
+      "artist": "Oh Wonder",
+      "has_synced": true,
+      "path": "select/01_Midnight_Moon_Oh_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Midnight Moon",
+      "artist": "The Record Company",
+      "has_synced": true,
+      "path": "select/02_Midnight_Moon_The_Record_Company.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Midnight Moon",
+      "artist": "Oh Wonder",
+      "has_synced": true,
+      "path": "select/03_Midnight_Moon_Oh_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Midnight Moon",
+      "artist": "Smoking Popes",
+      "has_synced": false,
+      "path": "select/04_Midnight_Moon_Smoking_Popes.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Midnight Moon\u0000",
+      "artist": "Smoking Popes\u0000",
+      "has_synced": true,
+      "path": "select/05_Midnight_Moon\u0000_Smoking_Popes\u0000.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Midnight Moon",
+      "artist": "The Paper Kites",
+      "has_synced": true,
+      "path": "select/06_Midnight_Moon_The_Paper_Kites.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Midnight Moon Misery",
+      "artist": "Project Pitchfork",
+      "has_synced": false,
+      "path": "select/07_Midnight_Moon_Misery_Project_Pitchfork.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mayonaka no Etowaru (The Midnight Moon)",
+      "artist": "Tomizawa Michie",
+      "has_synced": false,
+      "path": "select/08_Mayonaka_no_Etowaru_(The_Midnight_Moon)_Tomizawa_Michie.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Midnight Moon",
+      "artist": "Oh Wonder",
+      "has_synced": false,
+      "path": "select/09_Midnight_Moon_Oh_Wonder.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "歳月 - Midnight Moon Walker Remix",
+      "artist": "TamaOnSen",
+      "has_synced": true,
+      "path": "select/10_歳月_-_Midnight_Moon_Walker_Remix_TamaOnSen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Midnight Moon Misery (remastered)",
+      "artist": "Project Pitchfork",
+      "has_synced": false,
+      "path": "select/11_Midnight_Moon_Misery_(remastered)_Project_Pitchfork.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Midnight Moon",
+      "artist": "Waterstrider",
+      "has_synced": true,
+      "path": "select/12_Midnight_Moon_Waterstrider.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Midnight Moon",
+      "artist": "William Beckmann",
+      "has_synced": false,
+      "path": "select/13_Midnight_Moon_William_Beckmann.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "12 Midnight Moon (feat. GDRN)",
+      "artist": "Eydís Evensen/GDRN",
+      "has_synced": true,
+      "path": "select/14_12_Midnight_Moon_(feat._GDRN)_Eydís_Evensen_GDRN.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Midnight Moon",
+      "artist": "The Starfolk",
+      "has_synced": false,
+      "path": "select/15_Midnight_Moon_The_Starfolk.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Midnight Moon",
+      "artist": "LYNXCATS",
+      "has_synced": true,
+      "path": "select/16_Midnight_Moon_LYNXCATS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Midnight Moon",
+      "artist": "Oh Wonder",
+      "has_synced": false,
+      "path": "select/pl_01_Midnight_Moon_Oh_Wonder.txt"
+    }
+  ]
+}
