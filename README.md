@@ -1,0 +1,23 @@
+# Oh Wonder – Midnight Moon
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+you with the wide eyes don't lose your courage
+you swing your head high and don't be worried
+your heart's in a free ride
+feel it beating
+caught in the headlights
+climb to the ceiling
+we're all animals out in the dark
+got a feeling that we're all believing in
+not waiting for daylight to start
+were over the moon
+over the midnight moon
+you with the sad smile don't lose your courage
+dance in the high tide and don't be worried
+your soul's in a wildfire
+feel it beating
+dreams on a gold wire
+won't you believe it
+```
